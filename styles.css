@@ -365,6 +365,16 @@ header.sticky ul li a:hover{
     padding: 10px;
 }
 
+.iconpack{
+    padding-left: 20px;
+    font-size: 34px;
+    text-decoration: none;
+    color: #085391;
+}
+.iconpack:hover{
+    color: #2196f3;
+}
+
 /* Responsive */
 @media (max-width: 991px){
     header, header.sticky{
