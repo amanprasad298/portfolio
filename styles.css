@@ -164,6 +164,11 @@ header.sticky ul li a:hover{
     margin-bottom: 10px;
 }
 
+.adj{
+  padding-left: 20px;
+  padding-top: 2px;
+}
+
 .w50{
     min-width: 50%;
 }
@@ -223,6 +228,7 @@ header.sticky ul li a:hover{
 
 .work .content .workBx img{
     max-width: 100%;
+    cursor: pointer;
 }
 
 .testimonials{
@@ -473,6 +479,9 @@ header.sticky ul li a:hover{
     }
    .testimonials{
     margin: 20px;
+}
+.copyright{
+    font-size: 12px;
 }
 
 }
